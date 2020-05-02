@@ -1,0 +1,13 @@
+.navbar-item a{
+    color:white;
+    padding: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.logoClass{
+    max-width: 20rem;
+    max-height:3rem;
+    padding-left: 0rem;
+}
+

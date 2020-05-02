@@ -1,0 +1,21 @@
+.lead p{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5rem;
+}
+
+.my-container{
+    align-content: center;
+    max-width: 98%;
+    border-radius: 10px;
+    border: 5px tomato;
+    font-style: oblique;
+    margin-bottom: 15px;
+    
+
+}
+
+.jumbotp{
+    text-align: center;
+    align-content: center;
+   padding-left: 10rem;
+}

@@ -1,0 +1,27 @@
+.about{
+    /* align-content: center; */
+    text-align: center;
+    /* padding-left: 20rem; */
+    padding-top: 1.6rem;
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+    height: 20rem;
+    width: 96%;
+    /* text-anchor: middle; */
+    font-size: 1.8rem;
+    font-weight: 800;
+    color:#fff;
+    border: solid 0.5rem;
+}
+
+.imgabt{
+    padding-left: 0;
+    max-width: 15rem;
+    max-height:15rem;
+}
+
+.thanktext{
+    color: tomato;
+}
+
