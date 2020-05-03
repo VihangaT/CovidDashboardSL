@@ -86,8 +86,8 @@
 
 .footerPower{
 	font-size: 4rem;
-    background: tomato ;
-    color: #272727;;
+    background: #12a1e3 ;
+    color: #fff;;
     text-decoration: none;
     font-size: 1rem;
     text-align: center;
@@ -124,12 +124,12 @@
 	height: 50px;
 	margin: 0px 10px;
 	border-radius: 100%;
-	background: tomato;
+	background: #12a1e3;
 	
 }
 
 .footer-social-icons ul li a{
-	color: #272727;
+	color: white;
 	font-size: 25px;
 	display: black;
 }

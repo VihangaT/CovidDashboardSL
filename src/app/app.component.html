@@ -1,15 +1,16 @@
 <div class="container ">
     <ul>
+      <li> <div class="title">Local New Cases Today</div><div class="values"> {{localNewCases | valueShaper}}</div> </li>
       <li> <div class="title">Local Active Cases</div><div class="values"> {{localActiveCases | valueShaper}}</div> </li>
       <li> <div class="title">Total Local Cases</div><div class="values">{{ localTotalCases | valueShaper}}</div> </li>
-      <li> <div class="title">Local Deaths Due to Covid19</div> <div class="values"> {{localDeaths | valueShaper}}</div></li>
+      <li> <div class="title">Local Covid19 Deaths</div> <div class="values"> {{localDeaths | valueShaper}}</div></li>
       <li> <div class="title">Recovered Count</div><div class="values"> {{localRecovered | valueShaper}}</div> </li>
       <li> <div class="title">Local Suspected Cases</div><div class="values"> {{localTotalIndividualsHospitals | valueShaper}}</div> </li>
-      <li> <div class="title">New Cases Globally for Today</div><div class="values">{{globalNewCases | valueShaper}}</div> </li>
+      <li> <div class="title">New Cases Globally</div><div class="values">{{globalNewCases | valueShaper}}</div> </li>
       <li> <div class="title">Total Cases Globally</div><div class="values">{{globalTotalCases | valueShaper}}</div> </li>
-      <li> <div class="title">New Death Globally for Today</div><div class="values"> {{globalNewDeaths | valueShaper}}</div> </li>
+      <li> <div class="title">New Death Globally</div><div class="values"> {{globalNewDeaths | valueShaper}}</div> </li>
       <li> <div class="title">Total Deaths Globally</div><div class="values">{{totalGlobalDeaths | valueShaper}}</div> </li>
-      <li> <div class="title">Total Recoveries Globally</div> <div class="values">{{globalRecovered | valueShaper}}</div></li>
+      <li> <div class="title">Total Recoveries</div> <div class="values">{{globalRecovered | valueShaper}}</div></li>
       <li> <div class="title">Total PCR Testing Count</div> <div class="values">{{totalPcrTestingCount | valueShaper}}</div></li>
     </ul>
 </div>
