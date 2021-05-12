@@ -22,7 +22,7 @@
     "@syncfusion/ej2-angular-charts": "^18.1.45",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.4.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "font-awesome": "^4.7.0",
     "ng2-charts": "^2.3.0",
     "ngx-bootstrap": "^5.6.1",
